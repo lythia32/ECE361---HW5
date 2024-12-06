@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1733456767 source:c:\users\shell\onedrive\documents\ece\ece361\hw5\bst\bst.c
+	"bst.h"
+	<stdlib.h>
+	<stdio.h>
+
+1733456669 c:\users\shell\onedrive\documents\ece\ece361\hw5\bst\bst.h
+	<time.h>
+	<stdint.h>
+
+1733457075 source:c:\users\shell\onedrive\documents\ece\ece361\hw5\bst\test_bst.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"bst.h"
+
+1733184338 source:c:\users\shell\onedrive\documents\ece\ece361\hw5\bst\float_rndm.c
+	<stdlib.h>
+
+1733184338 source:c:\users\shell\onedrive\documents\ece\ece361\hw5\bst\iom361_r2.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	"float_rndm.h"
+	"iom361_r2.h"
+
+1733184338 c:\users\shell\onedrive\documents\ece\ece361\hw5\bst\float_rndm.h
+
+1733184338 c:\users\shell\onedrive\documents\ece\ece361\hw5\bst\iom361_r2.h
+	<stdint.h>
+	<stdbool.h>
+
+1733453415 source:c:\users\shell\onedrive\documents\ece\ece361\hw5\bst\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"bst.h"
+	"iom361_r2.h"
+
+1733372631 c:\users\shell\onedrive\documents\ece\ece361\hw5\bst\portland_avg_climate.h
+
